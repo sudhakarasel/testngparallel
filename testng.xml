@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite thread-count="2" name="All Test Suite" parallel="methods">
-    <test verbose="2" preserve-order="true" name="C:/Users/s.nageswararao/IdeaProjects/TestNGDemo">
+    <test verbose="2" preserve-order="true" name="/TestNGDemo">
         <classes>
             <class name="TestCases"/>
         </classes>
