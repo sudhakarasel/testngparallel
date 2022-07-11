@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-11T15:27:51 IST" name="Suite" finished-at="2022-07-11T15:28:08 IST" duration-ms="16822">
+    <groups>
+    </groups>
+    <test started-at="2022-07-11T15:27:51 IST" name="/TestNGDemo" finished-at="2022-07-11T15:28:08 IST" duration-ms="16822">
+      <class name="TestCases">
+        <test-method is-config="true" signature="Dispose()[pri:0, instance:TestCases@62ddbd7e]" started-at="2022-07-11T15:27:51 IST" name="Dispose" finished-at="2022-07-11T15:27:52 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dispose -->
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:TestCases@62ddbd7e]" started-at="2022-07-11T15:27:52 IST" name="setDriver" finished-at="2022-07-11T15:27:52 IST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:TestCases@62ddbd7e]" started-at="2022-07-11T15:27:52 IST" name="setDriver" finished-at="2022-07-11T15:27:52 IST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="test1()[pri:0, instance:TestCases@62ddbd7e]" started-at="2022-07-11T15:27:52 IST" name="test1" finished-at="2022-07-11T15:28:04 IST" duration-ms="11379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:TestCases@62ddbd7e]" started-at="2022-07-11T15:27:52 IST" name="test2" finished-at="2022-07-11T15:28:08 IST" duration-ms="15793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- TestCases -->
+    </test> <!-- /TestNGDemo -->
+  </suite> <!-- Suite -->
+</testng-results>
